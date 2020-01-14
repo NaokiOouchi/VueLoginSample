@@ -1,7 +1,9 @@
 VueLoginSample
 # VuejsNodejsSample
 ## Vue.js + Node.js Vuetify Login Sample
-
+## 概要
+Node.js Vue.js + Vuetifyを使用して、
+ログイン　→　データ取得までを確認できるサンプルプロジェクトです。
 ## 構築
 ### frontend
 ```
@@ -45,3 +47,9 @@ backend
 index.js
 簡易認証処理、データ返却処理を記載しています。
 ```
+
+参考サイト
+
+[Vue.js + Vuetify でログインしないと閲覧できないSPAサイトを作成する](https://qiita.com/trustbank_kei/items/3739002c3bcaa88aaab8#srcviewshogevue)
+
+[(初学者向け)Vue CLI + Vuetify.jsで爆速モックアップ](https://qiita.com/kakakikiup1/items/dd6e96e79343cfb26c69)
